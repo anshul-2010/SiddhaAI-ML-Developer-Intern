@@ -1,0 +1,35 @@
+{
+  "first_name": "Bhaarat",
+  "middle_name": "Krishnan",
+  "last_name": "J",
+  "gender": "Male",
+  "doctor": 359001,
+  "dob": "2003-10-29",
+  "address": "w/266, c sector, 13th street",
+  "city": "Chennai",
+  "state": "CA",
+  "cell_phone": "+1 (444) 555-1234",
+  "zip_code": "90011",
+  "email": "bhaaratkrishnan29113@gmail.com",
+  "emergency_contact_name": "Arjun",
+  "emergency_contact_phone": "+1 (444) 555-1234",
+  "emergency_contact_relation": "Friend",
+  "primary_insurance":{
+    "insurance_group_number": "123456",
+    "insurance_id_number": "1234578",
+    "is_subscriber_the_patient":false,
+    "subscriber_first_name": "Yeshwanth", 
+    "subscriber_last_name":"J", 
+    "subscriber_dob":"2003-10-20", 
+    "subscriber_relationship":"01",
+    "photo_front":"",
+    "photo_back":""
+  },
+  "referrel_doctor": {
+    "first_name": "Shanmuga Priya",
+    "last_name": "Arumugam",
+    "fax": "+1 (444) 555-1234",
+    "phone": "+1 (555) 444-3333",
+    "address": "w/266, c sector, 13th street"
+  }
+}
